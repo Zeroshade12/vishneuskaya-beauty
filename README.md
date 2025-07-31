@@ -17,10 +17,6 @@
       50% {background-position: 100% 50%;}
       100% {background-position: 0% 50%;}
     }
-    @keyframes fadeIn {
-      0% {opacity: 0; transform: translateY(20px);}
-      100% {opacity: 1; transform: translateY(0);}
-    }
   </style>
 </head>
 <body class="text-gray-800">
