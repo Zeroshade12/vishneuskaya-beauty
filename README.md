@@ -84,13 +84,6 @@
       </div>
     </div>
   </section>
-
-
-    <!-- WhatsApp / Telegram Floating Buttons -->
-  <div class="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
-    <a href="https://t.me/@Wishelga" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-full shadow-lg" title="Написать в Telegram">
-    </a>
-  </div>
     
   
   <!-- Bonus Section -->
@@ -98,6 +91,12 @@
     <h2 class="text-3xl font-bold mb-4">🌸 Красота — это удовольствие</h2>
     <p class="max-w-xl mx-auto text-lg">Мы не просто делаем процедуры — мы создаём атмосферу любви к себе. Приходите и почувствуйте, как ваша кожа начинает сиять!</p>
   </section>
+  
+      <!-- Telegram Floating Buttons -->
+  <div class="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
+    <a href="https://t.me/@Wishelga" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-full shadow-lg" title="Написать в Telegram">
+    </a>
+  </div>
   
   <!-- Contact Section -->
   <section class="bg-pink-50 py-10">
