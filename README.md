@@ -53,27 +53,29 @@
     <p class="text-xl text-center leading-relaxed">Каждая процедура — это ритуал. Индивидуальный подход, деликатное прикосновение, безопасные и эффективные методы — это мой стандарт. Приходите в Vishneuskaya Beauty и почувствуйте разницу уже после первого визита.</p>
   </section>
 
-<!-- Services Section -->
-<section class="bg-gray-100 py-10">
+ <!-- Services Section -->
+  <section class="bg-white py-14 fade-in">
     <div class="max-w-5xl mx-auto px-4">
-      <h2 class="text-2xl font-bold mb-6">Услуги и цены</h2>
+      <h2 class="text-3xl font-bold mb-8 text-center">Услуги и цены</h2>
       <div class="grid md:grid-cols-2 gap-6">
-        <div class="bg-white p-4 rounded shadow">
-          <h3 class="font-semibold">Чистка лица</h3>
+        <div class="bg-pink-50 p-6 rounded-xl shadow-md hover:shadow-lg transform hover:scale-105 transition">
+          <h3 class="font-semibold text-xl">Чистка лица</h3>
           <p>от 150 PLN</p>
         </div>
-        <div class="bg-white p-4 rounded shadow">
-          <h3 class="font-semibold">RF-лифтинг</h3>
+        <div class="bg-pink-50 p-6 rounded-xl shadow-md hover:shadow-lg transform hover:scale-105 transition">
+          <h3 class="font-semibold text-xl">RF-лифтинг</h3>
           <p>от 200 PLN</p>
         </div>
-        <div class="bg-white p-4 rounded shadow">
-          <h3 class="font-semibold">Кислотный пилинг</h3>
+        <div class="bg-pink-50 p-6 rounded-xl shadow-md hover:shadow-lg transform hover:scale-105 transition">
+          <h3 class="font-semibold text-xl">Кислотный пилинг</h3>
           <p>от 180 PLN</p>
         </div>
-        <div class="bg-white p-4 rounded shadow">
-          <h3 class="font-semibold">Массаж лица</h3>
+        <div class="bg-pink-50 p-6 rounded-xl shadow-md hover:shadow-lg transform hover:scale-105 transition">
+          <h3 class="font-semibold text-xl">Массаж лица</h3>
           <p>от 120 PLN</p>
         </div>
+      </div>
+    </div>
   </section>
   
     <!-- Blog/News Section -->
@@ -97,6 +99,14 @@
     </div>
   </section>
 
+
+  
+    <!-- WhatsApp / Telegram Floating Buttons -->
+  <div class="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
+    <a href="https://t.me/username" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-full shadow-lg" title="Написать в Telegram">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M21.05 2.52c-.72-.55-1.64-.83-2.6-.75L3.4 4.22C1.63 4.38 1.12 6.69 2.4 7.57l5.28 3.52 2.14 6.67c.2.63.94.9 1.49.53l2.75-1.84 3.15 2.35c.51.38 1.19.33 1.64-.12.46-.45.5-1.15.12-1.64l-2.35-3.15 1.84-2.75c.37-.56.1-1.3-.53-1.49L7.57 2.4C6.7 1.12 4.38 1.63 4.22 3.4l-.55 15.05c-.08.96.2 1.88.75 2.6.99 1.3 2.97 1.3 3.96 0l13.62-13.63c1.3-.99 1.3-2.97 0-3.96z"/></svg>
+    </a>
+  </div>
     
     <!-- Chat Widget (Tawk.to example) -->
   <script type="text/javascript">
@@ -111,13 +121,11 @@
   })();
   </script>
   
-    <!-- WhatsApp / Telegram Floating Buttons -->
-  <div class="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
-    <a href="https://t.me/@Wishelga" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-full shadow-lg" title="Написать в Telegram">
-    </a> </div>
-  
-
- 
+  <!-- Bonus Section -->
+  <section class="bg-gradient-to-r from-pink-200 to-pink-100 py-16 text-center fade-in">
+    <h2 class="text-3xl font-bold mb-4">🌸 Красота — это удовольствие</h2>
+    <p class="max-w-xl mx-auto text-lg">Мы не просто делаем процедуры — мы создаём атмосферу любви к себе. Приходите и почувствуйте, как ваша кожа начинает сиять!</p>
+  </section>
   
   <!-- Contact Section -->
   <section class="bg-pink-50 py-10">
@@ -138,5 +146,8 @@
   <section class="text-center py-6">
     <p class="text-sm">🌍 Wolisz Polski? <a href="index-en.html" class="underline text-pink-600">Click here</a></p>
   </section>
+    <footer class="text-center text-sm py-4 text-gray-500">
+    &copy; 2025 Vishneuskaya Beauty — Сделано с любовью 💗
+  </footer>
 </body>
 </html>
