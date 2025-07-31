@@ -167,8 +167,5 @@ ll
     <p class="text-sm">🌍 Do you speak English? <a href="index-en.html" class="underline text-pink-600">Click here</a></p>
   </section>
   
-  <footer class="text-center text-sm py-4 text-gray-400">
-    &copy; 2025 Vishneuskaya Beauty
-  </footer>
 </body>
 </html>
