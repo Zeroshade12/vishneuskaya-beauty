@@ -17,19 +17,9 @@
       50% {background-position: 100% 50%;}
       100% {background-position: 0% 50%;}
     }
-    .fade-in {
-      animation: fadeIn ease 2s;
-    }
     @keyframes fadeIn {
       0% {opacity: 0; transform: translateY(20px);}
       100% {opacity: 1; transform: translateY(0);}
-    }
-    .slide-in {
-      animation: slideIn 1.5s ease-out;
-    }
-    @keyframes slideIn {
-      0% {transform: translateX(-50px); opacity: 0;}
-      100% {transform: translateX(0); opacity: 1;}
     }
   </style>
 </head>
@@ -100,25 +90,12 @@
   </section>
 
 
-  
     <!-- WhatsApp / Telegram Floating Buttons -->
   <div class="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
     <a href="https://t.me/@Wishelga" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-full shadow-lg" title="Написать в Telegram">
     </a>
   </div>
     
-    <!-- Chat Widget (Tawk.to example) -->
-  <script type="text/javascript">
-  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-  (function(){
-  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-  s1.async=true;
-  s1.src='https://embed.tawk.to/65c123abcde56789abcdef12/1hxyzabc';
-  s1.charset='UTF-8';
-  s1.setAttribute('crossorigin','*');
-  s0.parentNode.insertBefore(s1,s0);
-  })();
-  </script>
   
   <!-- Bonus Section -->
   <section class="bg-gradient-to-r from-pink-200 to-pink-100 py-16 text-center fade-in">
@@ -143,7 +120,7 @@
   
   <!-- Language Switch -->
   <section class="text-center py-6">
-    <p class="text-sm">🌍 Wolisz Polski? <a href="index-en.html" class="underline text-pink-600">Click here</a></p>
+    <p class="text-sm">🌍 Wolisz Polski? <a href="index-en.html" class="underline text-pink-600">Naciśnij tu</a></p>
   </section>
     <footer class="text-center text-sm py-4 text-gray-500">
     &copy; 2025 Vishneuskaya Beauty — Сделано с любовью 💗
