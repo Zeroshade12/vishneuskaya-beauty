@@ -75,8 +75,6 @@ ll
           <h3 class="font-semibold">Массаж лица</h3>
           <p>от 120 PLN</p>
         </div>
-        <!-- Добавь больше услуг по желанию  </div>
-    </div> -->
   </section>
   
     <!-- Blog/News Section -->
@@ -114,12 +112,8 @@ ll
   })();
   </script>
   
-  
     <!-- WhatsApp / Telegram Floating Buttons -->
   <div class="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
-    <a href="https://wa.me/48730000000" target="_blank" class="bg-green-500 hover:bg-green-600 text-white p-3 rounded-full shadow-lg" title="Написать в WhatsApp">
-      <!-- <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 12l-4-4-4 4m8 0l-4 4-4-4" /></svg>
-    </a> -->
     <a href="https://t.me/@Wishelga" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-full shadow-lg" title="Написать в Telegram">
       <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M21.05 2.52c-.72-.55-1.64-.83-2.6-.75L3.4 4.22C1.63 4.38 1.12 6.69 2.4 7.57l5.28 3.52 2.14 6.67c.2.63.94.9 1.49.53l2.75-1.84 3.15 2.35c.51.38 1.19.33 1.64-.12.46-.45.5-1.15.12-1.64l-2.35-3.15 1.84-2.75c.37-.56.1-1.3-.53-1.49L7.57 2.4C6.7 1.12 4.38 1.63 4.22 3.4l-.55 15.05c-.08.96.2 1.88.75 2.6.99 1.3 2.97 1.3 3.96 0l13.62-13.63c1.3-.99 1.3-2.97 0-3.96z"/></svg>
     </a>
@@ -145,8 +139,7 @@ ll
   
   <!-- Language Switch -->
   <section class="text-center py-6">
-    <p class="text-sm">🌍 Do you speak English? <a href="index-en.html" class="underline text-pink-600">Click here</a></p>
+    <p class="text-sm">🌍 Wolisz Polski? <a href="index-en.html" class="underline text-pink-600">Click here</a></p>
   </section>
-  
 </body>
 </html>
