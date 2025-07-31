@@ -58,8 +58,8 @@ ll
     <p class="text-xl text-center leading-relaxed">Каждая процедура — это ритуал. Индивидуальный подход, деликатное прикосновение, безопасные и эффективные методы — это мой стандарт. Приходите в Vishneuskaya Beauty и почувствуйте разницу уже после первого визита.</p>
   </section>
 
-  <!-- Services Section -->
-  <section class="bg-gray-100 py-10">
+<!-- Services Section -->
+<section class="bg-gray-100 py-10">
     <div class="max-w-5xl mx-auto px-4">
       <h2 class="text-2xl font-bold mb-6">Услуги и цены</h2>
       <div class="grid md:grid-cols-2 gap-6">
@@ -83,6 +83,7 @@ ll
       </div>
     </div>
   </section>
+  
     <!-- Blog/News Section -->
   <section class="bg-pink-50 py-20 slide-in">
     <div class="max-w-6xl mx-auto px-4">
@@ -103,11 +104,6 @@ ll
       </div>
     </div>
   </section>
-   <!-- Переход к основной части -->
-  <div class="py-10 text-center">
-    <a href="#" class="text-pink-700 text-xl underline hover:text-pink-900 transition">Читать больше статей →</a>
-  </div>
-
 
   <!-- Gallery -->
   <section class="max-w-5xl mx-auto px-4 py-10">
