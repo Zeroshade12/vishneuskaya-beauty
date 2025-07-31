@@ -44,12 +44,6 @@ ll
       <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_w51pcehl.json" background="transparent" speed="1" style="width: 320px; height: 320px;" loop autoplay></lottie-player>
     </div>
   </section>
-  <!-- Hero Section -->
-  <section class="bg-pink-100 text-center py-16">
-    <h1 class="text-4xl md:text-5xl font-bold mb-4">Vishneuskaya Beauty</h1>
-    <p class="text-lg md:text-xl mb-6 italic">Ваша красота — наша страсть</p>
-    <a href="https://wishnewska.booksy.com/" class="bg-pink-500 hover:bg-pink-600 text-white py-2 px-6 rounded-full">Записаться</a>
-  </section>
 
   <!-- Expanded About Section -->
   <section class="max-w-6xl mx-auto px-6 py-20 slide-in">
