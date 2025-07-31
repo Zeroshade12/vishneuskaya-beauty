@@ -6,12 +6,7 @@
   <title>Vishneuskaya Beauty</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-  <style>
-    body {
-      background: linear-gradient(135deg, #fdf6f9, #fff0f5, #f9f0ff);
-      background-size: 50% 50%;
-      animation: gradientBG 30s ease infinite;
-    }
+  <style> 
     @keyframes gradientBG {
       0% {background-position: 0% 50%;}
       50% {background-position: 100% 50%;}
