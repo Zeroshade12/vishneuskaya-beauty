@@ -21,7 +21,7 @@
     <h1 class="text-6xl font-extrabold mb-4 animate-bounce">Vishneuskaya Beauty</h1>
     <p class="text-2xl italic mb-8">Ваша красота — наша страсть</p>
     <a href="https://wishnewska.booksy.com/" class="bg-pink-500 hover:bg-pink-600 text-white py-3 px-10 rounded-full text-xl shadow-md transform transition hover:scale-110">Записаться через букси</a>
-    <a href="[https://wishnewska.booksy.com/](https://www.instagram.com/direct/t/106874287372526)" class="bg-pink-500 hover:bg-pink-600 text-white py-3 px-10 rounded-full text-xl shadow-md transform transition hover:scale-110">Записаться через интсаграмм</a>
+    <a href="https://www.instagram.com/direct/t/106874287372526" class="bg-pink-500 hover:bg-pink-600 text-white py-3 px-10 rounded-full text-xl shadow-md transform transition hover:scale-110">Записаться через интсаграмм</a>
     <div class="mt-12 flex justify-center">
       <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_w51pcehl.json" background="transparent" speed="1" style="width: 320px; height: 320px;" loop autoplay></lottie-player>
     </div>
