@@ -94,8 +94,8 @@
   
       <!-- Telegram Floating Buttons -->
   <div class="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
-    <a href="https://t.me/@Wishelga" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-full shadow-lg" title="Написать в Telegram">
-      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 12l-4-4-4 4m8 0l-4 4-4-4" /></svg>
+    <a href="https://t.me/@Wishelga" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-10 rounded-full shadow-lg" title="Написать в Telegram">
+      
     </a>
   </div>
   
