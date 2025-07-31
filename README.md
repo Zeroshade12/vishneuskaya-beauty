@@ -10,7 +10,7 @@ ll
   <style>
     body {
       background: linear-gradient(135deg, #fdf6f9, #fff0f5, #f9f0ff);
-      background-size: 100% 100%;
+      background-size: 50% 50%;
       animation: gradientBG 30s ease infinite;
     }
     @keyframes gradientBG {
@@ -40,7 +40,8 @@ ll
   <section class="text-center py-24 bg-pink-100 fade-in">
     <h1 class="text-6xl font-extrabold mb-4 animate-bounce">Vishneuskaya Beauty</h1>
     <p class="text-2xl italic mb-8">Ваша красота — наша страсть</p>
-    <a href="https://wishnewska.booksy.com/" class="bg-pink-500 hover:bg-pink-600 text-white py-3 px-10 rounded-full text-xl shadow-md transform transition hover:scale-110">Записаться</a>
+    <a href="https://wishnewska.booksy.com/" class="bg-pink-500 hover:bg-pink-600 text-white py-3 px-10 rounded-full text-xl shadow-md transform transition hover:scale-110">Записаться через букси</a>
+    <a href="[https://wishnewska.booksy.com/](https://www.instagram.com/direct/t/106874287372526)" class="bg-pink-500 hover:bg-pink-600 text-white py-3 px-10 rounded-full text-xl shadow-md transform transition hover:scale-110">Записаться через интсаграмм</a>
     <div class="mt-12 flex justify-center">
       <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_w51pcehl.json" background="transparent" speed="1" style="width: 320px; height: 320px;" loop autoplay></lottie-player>
     </div>
@@ -74,9 +75,8 @@ ll
           <h3 class="font-semibold">Массаж лица</h3>
           <p>от 120 PLN</p>
         </div>
-        <!-- Добавь больше услуг по желанию -->
-      </div>
-    </div>
+        <!-- Добавь больше услуг по желанию  </div>
+    </div> -->
   </section>
   
     <!-- Blog/News Section -->
@@ -118,14 +118,14 @@ ll
     <!-- WhatsApp / Telegram Floating Buttons -->
   <div class="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
     <a href="https://wa.me/48730000000" target="_blank" class="bg-green-500 hover:bg-green-600 text-white p-3 rounded-full shadow-lg" title="Написать в WhatsApp">
-      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 12l-4-4-4 4m8 0l-4 4-4-4" /></svg>
-    </a>
-    <a href="https://t.me/username" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-full shadow-lg" title="Написать в Telegram">
+      <!-- <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 12l-4-4-4 4m8 0l-4 4-4-4" /></svg>
+    </a> -->
+    <a href="https://t.me/@Wishelga" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white p-3 rounded-full shadow-lg" title="Написать в Telegram">
       <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M21.05 2.52c-.72-.55-1.64-.83-2.6-.75L3.4 4.22C1.63 4.38 1.12 6.69 2.4 7.57l5.28 3.52 2.14 6.67c.2.63.94.9 1.49.53l2.75-1.84 3.15 2.35c.51.38 1.19.33 1.64-.12.46-.45.5-1.15.12-1.64l-2.35-3.15 1.84-2.75c.37-.56.1-1.3-.53-1.49L7.57 2.4C6.7 1.12 4.38 1.63 4.22 3.4l-.55 15.05c-.08.96.2 1.88.75 2.6.99 1.3 2.97 1.3 3.96 0l13.62-13.63c1.3-.99 1.3-2.97 0-3.96z"/></svg>
     </a>
   </div>
   
-  <!-- Gallery -->
+  <!-- Gallery 
   <section class="max-w-5xl mx-auto px-4 py-10">
     <h2 class="text-2xl font-bold mb-6">Галерея</h2>
     <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -134,7 +134,7 @@ ll
       <img src="https://via.placeholder.com/150" alt="Instagram photo" class="rounded">
       <img src="https://via.placeholder.com/150" alt="Instagram photo" class="rounded">
     </div>
-  </section>
+  </section> -->
   
   <!-- Contact Form -->
   <section class="bg-pink-50 py-20 fade-in">
