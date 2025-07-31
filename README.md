@@ -125,29 +125,8 @@ ll
     </a>
   </div>
   
-  <!-- Gallery 
-  <section class="max-w-5xl mx-auto px-4 py-10">
-    <h2 class="text-2xl font-bold mb-6">Галерея</h2>
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-      <img src="https://via.placeholder.com/150" alt="Instagram photo" class="rounded">
-      <img src="https://via.placeholder.com/150" alt="Instagram photo" class="rounded">
-      <img src="https://via.placeholder.com/150" alt="Instagram photo" class="rounded">
-      <img src="https://via.placeholder.com/150" alt="Instagram photo" class="rounded">
-    </div>
-  </section> -->
-  
-  <!-- Contact Form -->
-  <section class="bg-pink-50 py-20 fade-in">
-    <div class="max-w-2xl mx-auto px-4">
-      <h2 class="text-4xl font-bold text-center mb-8">📬 Связаться с нами</h2>
-      <form action="https://formspree.io/f/your_form_id" method="POST" class="space-y-6 bg-white p-6 rounded-xl shadow">
-        <input type="text" name="name" placeholder="Ваше имя" required class="w-full border border-gray-300 rounded p-3">
-        <input type="email" name="email" placeholder="Ваш email" required class="w-full border border-gray-300 rounded p-3">
-        <textarea name="message" rows="5" placeholder="Ваше сообщение" required class="w-full border border-gray-300 rounded p-3"></textarea>
-        <button type="submit" class="bg-pink-500 text-white py-2 px-6 rounded hover:bg-pink-600 transition">Отправить</button>
-      </form>
-    </div>
-  </section>
+
+ 
   
   <!-- Contact Section -->
   <section class="bg-pink-50 py-10">
